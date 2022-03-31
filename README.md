@@ -1,6 +1,4 @@
 ## 🎲 About me
-Live in: Russian Federation.
-
 Age: 19 Years.
 
 ## 💼 Work

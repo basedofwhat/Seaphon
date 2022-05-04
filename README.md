@@ -9,8 +9,8 @@ Current job: [Creating open source applications.]()
 ## My Projects
 | Name | Description | Status
 | - |:-:|-|
-| [Auction system for DarkRP](https://github.com/Seaphon/gmod-auction) | An addon designed to change the economy of the Garry's mod server into a market version. |  <ul><li>- [ ] completed</li><li>- [ ] In Process</li><li>- [x] No started</li></ul>
-| [Unknown book](https://github.com/Seaphon/unknown-book) | Accounting for the process of reading a book |  <ul><li>- [ ] completed</li><li>- [x] In Process</li><li>- [ ] No started</li></ul>
+| [Auction system for DarkRP](https://github.com/Seaphon/gmod-auction) | An addon designed to change the economy of the Garry's mod server into a market version. |  <ul><li>- [ ] completed</li><li>- [ ] In Process</li><li>- [x] Planning </li></ul>
+| [Unknown book](https://github.com/Seaphon/unknown-book) | Accounting for the process of reading a book |  <ul><li>- [ ] completed</li><li>- [x] In Process</li><li>- [ ] Planning </li></ul>
 
 
 ##
